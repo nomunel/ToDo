@@ -135,7 +135,7 @@ $(function(){
             if (!this.input.val()) return;
 
             Todos.create({title: this.input.val()});
-            this.input.val(');
+            this.input.val('');
         },
         clearCompleted: function() {
             _.invoke(Todos.done(), 'destroy');
