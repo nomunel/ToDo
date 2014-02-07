@@ -1,0 +1,4002 @@
+[
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 1, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 2, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 3, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 4, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 5, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 6, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 7, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 8, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 9, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 10, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 11, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 12, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 13, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 14, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 15, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 16, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 17, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 18, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 19, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 20, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 21, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 22, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 23, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 24, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 25, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 26, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 27, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 28, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 29, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 30, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 31, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 32, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 33, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 34, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 35, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 36, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 37, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 38, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 39, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 40, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 41, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 42, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 43, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 44, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 45, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 46, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 47, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 48, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 49, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 50, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 51, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 52, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 53, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 54, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 55, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 56, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 57, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 58, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 59, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 60, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 61, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 62, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 63, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 64, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 65, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 66, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 67, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 68, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 69, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 70, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 71, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 72, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 73, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 74, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 75, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 76, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 77, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 78, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 79, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 80, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 81, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 82, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 83, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 84, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 85, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 86, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 87, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 88, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 89, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 90, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 91, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 92, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 93, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 94, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 95, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 96, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 97, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 98, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 99, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }, 
+    {
+        "atk": 9999, 
+        "card_id": 1, 
+        "card_name": "アテナ", 
+        "charm": 9999, 
+        "charm_def": 9999, 
+        "date": "2013-01-10 01:00Z", 
+        "def": 9999, 
+        "exp_percentage": 50, 
+        "id": 100, 
+        "level": 200, 
+        "level_max": 999, 
+        "limit": 0, 
+        "rarity": 5, 
+        "selected": false, 
+        "skill": {
+            "attack": {
+                "element": 1, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "sapport": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }, 
+            "special": {
+                "element": 2, 
+                "exp_percentage": 50, 
+                "level": 20, 
+                "level_max": 40, 
+                "name": "灼熱の杖"
+            }
+        }, 
+        "used": false
+    }
+]

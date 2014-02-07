@@ -1,0 +1,115 @@
+/* reset
+-------------------------------------------------- */
+article, aside, figcaption, figure, footer, header, hgroup, nav, section {
+  display: block;
+}
+
+input, textarea, select, button {
+  -webkit-appearance: none;
+  appearance: none;
+  vertical-align: middle;
+}
+
+button {
+  outline: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-size: inherit;
+}
+
+figure, p, form, dl, dd, form {
+  margin: 0;
+}
+
+ol, ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+hr {
+  margin: 0;
+  outline: 0;
+  border: 0;
+}
+
+em, i {
+  font-style: normal;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* elements base style
+-------------------------------------------------- */
+body {
+  margin: 0;
+  color: #471b18;
+  font: 14px/1 "HiraKakuProN-W3", sans-serif;
+  -webkit-text-size-adjust: none;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  word-wrap: break-word;
+}
+
+a {
+  text-decoration: none;
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+  tap-highlight-color: rgba(255, 255, 255, 0);
+}
+
+/* form */
+input[type="checkbox"] {
+  -webkit-appearance: checkbox;
+  appearance: checkbox;
+}
+
+input[type="radio"] {
+  -webkit-appearance: radio;
+  appearance: radio;
+}
+
+input[type="text"] {
+  -webkit-appearance: text;
+  appearance: text;
+}
+
+textarea {
+  -webkit-appearance: textarea;
+  appearance: textarea;
+}
+
+select {
+  -webkit-appearance: select;
+  appearance: select;
+}
+
+button {
+  border: none;
+  padding: 0;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+label {
+  cursor: pointer;
+}
+
+/*  text */
+small {
+  font-size: 12px;
+}
+
+strong {
+  font-weight: bold;
+}
+
+del {
+  text-decoration: line-through;
+}
+
+/* common parts
+------------------------- */

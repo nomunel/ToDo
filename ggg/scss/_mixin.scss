@@ -1,0 +1,51 @@
+@mixin clearfix {
+   &:after {
+     content:"";
+     display:block;
+     clear:both;
+   }
+}
+@mixin tap-highlight-color($color) {
+  -webkit-tap-highlight-color: $color;
+  tap-highlight-color: $color;
+}
+
+
+/**
+ * button
+$sprite-cssTaps: sprite-map("touch/@css_taps/*.png",$spacing: 10px);
+$sprite-cssTaps-img: sprite-url($sprite-cssTaps);
+//$sprite-cssTaps-img: url(../img/touch/@css_taps.png);
+$sprite-cssTaps-sizeW: (image-width("touch/@css_taps.png") / 2);
+@mixin sprite-cssTaps($name, $p-top, $p-right, $p-bottom, $p-left) {
+    @if $p-top == false{
+        $p-top: 0;
+    }@else{
+        padding-top: $p-top + px;
+    }
+    @if $p-right == false{
+        $p-right: 0;
+    }@else{
+        padding-right: $p-right + px;
+    }
+    @if $p-bottom == false{
+        $p-bottom: 0;
+    }@else{
+        padding-bottom: $p-bottom + px;
+    }
+    @if $p-left == false{
+        $p-left: 0;
+    }@else{
+        padding-left: $p-left + px;
+    }
+    width: (image-width(sprite-file($sprite-cssTaps, $name)) / 2) - $p-right - $p-left;
+    height: (image-height(sprite-file($sprite-cssTaps, $name)) / 2) - $p-top - $p-bottom;
+    $ypos: round(nth(sprite-position($sprite-cssTaps, $name), 2) / 2);
+    background: $sprite-cssTaps-img no-repeat 0 $ypos;
+    @include background-size($sprite-cssTaps-sizeW auto);
+}
+@mixin sprite-cssTaps-tap($name) {
+    $ypos: round(nth(sprite-position($sprite-cssTaps, $name), 2) / 2);
+    background-position: 0 $ypos;
+}
+*/

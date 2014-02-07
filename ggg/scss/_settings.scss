@@ -1,0 +1,13 @@
+// prefix setting
+$experimental-support-for-mozilla: false;
+$experimental-support-for-microsoft: false;
+$experimental-support-for-opera: false;
+
+// common variable
+$baseWidth: 320px;
+$imgPath: "../img/touch/";
+
+// common import
+@import "compass/css3/";
+@import "compass/utilities";
+@import "mixin";

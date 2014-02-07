@@ -1,0 +1,122 @@
+
+
+/* reset
+-------------------------------------------------- */
+article, aside, figcaption, figure, footer, header, hgroup, nav, section {
+    display:block;
+}
+
+input, textarea, select, button {
+    -webkit-appearance: none;
+    appearance: none;
+    vertical-align: middle;
+}
+button {
+    outline: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    font-size: inherit;
+}
+
+figure, p, form, dl, dd, form {
+    margin:0;
+}
+
+ol, ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+
+hr {
+    margin: 0;
+    outline:0;
+    border:0;
+}
+
+em, i {
+    font-style:normal;
+}
+
+img {
+    vertical-align: middle;
+}
+
+
+/* elements base style
+-------------------------------------------------- */
+body {
+    margin: 0;
+    color: #471b18;
+    font: 14px/1 "HiraKakuProN-W3", sans-serif;
+    -webkit-text-size-adjust: none;// iOSデバイスでランドスケープ時に文字サイズが変化するのを抑止
+    -webkit-touch-callout: none;// 数字が連続した場合に電話発信用のリンク化されてしまうのを抑止
+    -webkit-user-select: none;// タッチ操作時にテキスト選択が生じ表示が乱れるのを抑止
+    word-wrap: break-word;// 連続した半角文字列がcontent-boxを超えるときだけ改行
+}
+
+a {
+    text-decoration: none;
+    @include tap-highlight-color(rgba(255,255,255,0));
+}
+
+/* form */
+input[type="checkbox"] {
+    @include appearance(checkbox);
+}
+input[type="radio"] {
+    @include appearance(radio);
+}
+input[type="text"] {
+    @include appearance(text);
+}
+
+textarea {
+    @include appearance(textarea);
+}
+
+select {
+    @include appearance(select);
+}
+
+button {
+  border: none;
+  padding: 0;
+  @include box-sizing(content-box);
+}
+
+label {
+    cursor: pointer;// iOS 5 or less fixed
+}
+
+/*  text */
+h1{
+    
+}
+h2{
+    
+}
+h3{
+    
+}
+
+p{
+
+}
+
+small {
+    font-size: 12px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+
+// 打ち消し線
+del {
+  text-decoration: line-through;
+}
+
