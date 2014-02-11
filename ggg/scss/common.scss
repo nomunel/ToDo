@@ -4,3 +4,25 @@
 
 /* common parts
 ------------------------- */
+
+#m_cards{
+    width: 300px;
+    margin: 8px auto;
+    li{
+        border-bottom: 1px solid #eee;
+        &:first-child{
+            border-top: 1px solid #eee;
+        }
+        figure{
+            display: inline-block;
+        }
+    }
+}
+
+#m_pager{
+    text-align: center;
+    ul, li{
+        display: inline;
+    }
+
+}

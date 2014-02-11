@@ -88,13 +88,15 @@ select {
 }
 
 button {
-  border: none;
-  padding: 0;
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
+  -webkit-appearance: button;
+  appearance: button;
 }
 
 label {
+  display: block;
+  /* iOS 5 or less fixed */
   cursor: pointer;
 }
 
@@ -113,3 +115,23 @@ del {
 
 /* common parts
 ------------------------- */
+#m_cards {
+  width: 300px;
+  margin: 8px auto;
+}
+#m_cards li {
+  border-bottom: 1px solid #eee;
+}
+#m_cards li:first-child {
+  border-top: 1px solid #eee;
+}
+#m_cards li figure {
+  display: inline-block;
+}
+
+#m_pager {
+  text-align: center;
+}
+#m_pager ul, #m_pager li {
+  display: inline;
+}

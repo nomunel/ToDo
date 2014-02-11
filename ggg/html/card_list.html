@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=320, user-scalable=no, minimal-ui">
+<script>
+(function(b){var a=b.navigator.userAgent;if(-1===a.indexOf("Chrome")&&0<a.indexOf("Android")){var a=b.document.querySelector('meta[name="viewport"]'),c=320/b.innerWidth*160;160!==c&&(a.setAttribute("content","target-densitydpi=medium-dpi"),c=320/b.innerWidth*160,a.setAttribute("content","target-densitydpi="+c))}})(this);
+</script>
+<title>GGG</title>
+<link rel="stylesheet" href="../css/common.css">
+<style>
+</style>
+</head>
+<body>
+
+<div id="m_pager" class="pager">
+    <button type="button" id="firstBtn">First</button>
+    <button type="button" id="prevBtn">Prev</button>
+    <ul id="pages">
+        <script type="text/template" id="card_list_pager" data-wrap="li">
+            <button type="button">1</button>
+        </script>
+    </ul>
+    <button type="button" id="nextBtn">Next</button>
+    <button type="button" id="lastBtn">Last</button>
+</div>
+
+<form id="card_selector">
+<button class="submit">選択</button>
+<ul id="m_cards">
+    <script type="text/template" id="card_template" data-wrap="li class=card_item">
+        <label>
+            <figure><img src="../_nodeploy/card/card_<%= card_id %>_s.jpg" height="70" width="50"></figure>
+            <span class="name"><%= card_name %></span>
+            <input type="checkbox" class="select" <%= checked ? 'checked': '' %>>
+        </label>
+    </script>
+</ul>
+</form>
+
+<script src="../js/common.js"></script>
+<script src="../js/card_list.js"></script>
+<script>
+// for (var i = 0; i < 100; i++) {
+//     document.write('{"card_name": "Hoge'+[i]+'","card_id": '+[i]+'},');
+// };
+</script>
+</body>
+</html>

@@ -6,9 +6,19 @@
 <link rel="stylesheet" href="css/todo.css">
 </head>
 <body>
+
 <h1>Tasks</h1>
+
+<form id="addTask">
+    <input type="text" id="title">
+    <input type="submit" value="add">
+    <span id="error"></span>
+</form>
+
 <div id="tasks">
 </div>
+<p>Tasks left: <span id="count"></span></p>
+
 
 
 <script type="text/template" id="task-template">
@@ -19,6 +29,6 @@
 <script src="js/jquery-2.1.0.min.js"></script>
 <script src="js/underscore-min.js"></script>
 <script src="js/backbone-min.js"></script>
-<!-- <script src="js/todo.js"></script>   -->
+<script src="js/todo.js"></script>
 </body>
 </html>

@@ -82,13 +82,16 @@ select {
 }
 
 button {
-  border: none;
-  padding: 0;
+  // border: none;
+  // padding: 0;
   @include box-sizing(content-box);
+  @include appearance(button);
 }
 
 label {
-    cursor: pointer;// iOS 5 or less fixed
+    display: block;
+    /* iOS 5 or less fixed */
+    cursor: pointer;
 }
 
 /*  text */
