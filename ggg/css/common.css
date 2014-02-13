@@ -129,9 +129,9 @@ del {
   display: inline-block;
 }
 
-#m_pager {
+.m_pager {
   text-align: center;
 }
-#m_pager ul, #m_pager li {
+.m_pager ul, .m_pager li {
   display: inline;
 }

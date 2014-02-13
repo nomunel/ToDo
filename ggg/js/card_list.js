@@ -1,19 +1,23 @@
 /*
  - 画像の先読みをする
-  - 先に次のグループを見えないところにRenderingしたら画像ロードする確認
-  - ロードした画像のキャッシュを消す方を調べる
+  - 先に次のグループを見えないところにRenderingしたら画像ロードするか確認
  - PageViewの途中
-  - 子数をgroupNumから拾ってくる
-  - ページリンクの表示を任意の数に随時変え、current処理
+  - ページリンクの表示を任意の数に随時変え、current処理 =>後回し
+ - どこに状態を保持
+  - 全データを読んでいない状態からの再開が難しそう
+ - ソート
+  - 一旦すべてのモデルをロードしてからソートして表示
+  - ソート種別をサーバーサイドに送り、次からはソートされたjsonをもらう
+ - フリック操作
+  - これは簡単
+ - 切り替えアニメーション（少し鬼門）
+  - jsonの先読みをもう1ページ早めないといけないかも
+  - 前後のDOMを用意しておく必要がある
 */
 (function(global){
     var ns = global.ggg || (global.ggg={}),
-        $cardTemplate = $('#card_template'),
-        Card,
-        Cards,
-        CardView,
-        CardListView;
-    Card = Backbone.Model.extend({
+        $cardTemplate = $('#card_template');
+    ns.Card = Backbone.Model.extend({
         defaults: {
             "card_name": "Unknown",
             "card_id": 0,
@@ -21,11 +25,10 @@
             "img_loaded": false
         }
     });
-    Cards = Backbone.Collection.extend({
-        model: Card,
-        url: '../json/card_list_data.json'
+    ns.Cards = Backbone.Collection.extend({
+        model: ns.Card
     });
-    CardView = Backbone.View.extend({
+    ns.CardView = Backbone.View.extend({
         tagName: $cardTemplate.data('wrap'),
         events: {
             'click .select': 'toggle'
@@ -39,37 +42,39 @@
             return this;
         }
     });
-    CardListView = Backbone.View.extend({
+    ns.CardListView = Backbone.View.extend({
         el: $('#m_cards'),
         initialize: function(){
-            this.itemNum = 10;
-            this.currentPage = 1;
+            var self = this;
             this.collection.fetch({
                 error: $.proxy(this.error, this),
                 success: $.proxy(this.render, this)
             });
+            this.loadedJsonFiles = 1;
         },
         error: function() {
             $(this.el).append('JSONデータを取得できませんでした');
         },
-        render: function(){
+        render: function(add){
             var models = this.collection.models,
-                itemNum = this.itemNum,
-                groupNum = this.groupNum = Math.ceil(models.length / itemNum),
+                groupItemNum = this.groupItemNum,
+                groupNum = this.groupNum = Math.ceil(models.length / groupItemNum),
                 groups = this.groups = [],
                 i, from, to;
             for(i=1; i<=groupNum; i++) {
-                from = (i-1) * itemNum;
-                to = from + itemNum;
+                from = (i-1) * groupItemNum;
+                to = from + groupItemNum;
                 groups[i] = models.slice(from, to);
             }
-            this.pageChange(groups[this.currentPage]);
-            this.renderCompleted();
+            if(add!==true){
+                this.pageChange(groups[this.currentPage]);
+                this.renderCompleted();
+            }
         },
         pageChange: function(group){
             $(this.el).empty();
             _(group).each(function(item){
-                var cardView = new CardView({model: item});
+                var cardView = new ns.CardView({model: item});
                 $(this.el).append(cardView.render().el);
             }, this);
         },
@@ -83,6 +88,24 @@
             };
         },
         next: function(){
+            var self = this;
+            if(this.splitJson && (this.currentPage === this.groups.length -2) && this.loadedJsonFiles<this.splitJson.length){
+                var url = this.splitJson[this.loadedJsonFiles++].split_path;
+                console.log(url);
+                $.getJSON(url, function(datas){
+                    _(datas).each(function(data){
+                        self.collection.create(data);
+                    });
+                    // datas.forEach(function(data){
+                    //     opt.collection.create(data);
+                    // });
+                    // var i, il;
+                    // for(i=0, il=datas.length; i<il; i++){
+                    //     opt.collection.create(datas[i]);
+                    // }
+                    self.render(true);
+                });
+            }
             if (this.currentPage !== this.groups.length -1) {
                 this.currentPage++;
                 this.pageChange(this.groups[this.currentPage]);
@@ -93,15 +116,69 @@
             this.pageChange(this.groups[this.currentPage]);
         },
         last: function(){
-            this.currentPage = this.groupNum;
+            this.currentPage = this.maxGroupNum;
             this.pageChange(this.groups[this.currentPage]);
+        },
+        setPager: function(elms){
+            var self = this,
+                $firstBtns = elms.$firstBtns,
+                $prevBtns = elms.$prevBtns,
+                $nextBtns = elms.$nextBtns,
+                $lastBtns = elms.$lastBtns,
+                $currentPageNums = elms.$currentPageNums,
+                $maxPageNums = elms.$maxPageNums;
+            disableSwitch();
+
+            $firstBtns.on('click', function(){
+                self.first();
+                disableSwitch();
+                $currentPageNums.html(self.currentPage);
+            });
+            $prevBtns.on('click', function(){
+                self.prev();
+                disableSwitch();
+                $currentPageNums.html(self.currentPage);
+            });
+            $nextBtns.on('click', function(){
+                self.next();
+                disableSwitch();
+                $currentPageNums.html(self.currentPage);
+            });
+            $lastBtns.on('click', function(){
+                self.last();
+                disableSwitch();
+                $currentPageNums.html(self.currentPage);
+            });
+            function disableSwitch(){
+                enable($firstBtns, $prevBtns, $nextBtns, $lastBtns);
+                if(self.maxGroupNum === 1){
+                    disable($firstBtns, $prevBtns, $nextBtns, $lastBtns);
+                }else if(self.currentPage === 1){
+                    disable($prevBtns, $firstBtns);
+                }else if(self.currentPage === self.maxGroupNum){
+                    disable($nextBtns, $lastBtns);
+                }
+                function disable(){
+                    _(arguments).each(function(btn){
+                        btn.attr('disabled', 'disabled');
+                    });
+                }
+                function enable(){
+                    _(arguments).each(function(btn){
+                        btn.removeAttr('disabled');
+                    });
+                }
+            }
+            $currentPageNums.html(self.currentPage);
+            $maxPageNums.html(self.maxGroupNum);
         }
     });
-    var SubmitCardsView = Backbone.View.extend({
+    ns.SubmitCardsView = Backbone.View.extend({
         el: $('#card_selector'),
         events: {
             'submit': 'submit',
         },
+        // * selectNames/Idsを作らなくてもCollectionに保持しているからそれ使えばいいかも...
         submit: function(e){
             e.preventDefault();
             var models = this.collection.models,
@@ -124,84 +201,32 @@
             }
         }
     });
-    var Page = Backbone.Model.extend({
-        defaults: {
-            pageNum: 0,
-            current: false
-        }
-    })
-    var Pages = Backbone.Collection.extend({
-        model: Page
-    });
-    var PageView = Backbone.View.extend({
-        el: $('#pages'),
-        template: _.template($('#card_list_pager').html()),
-        render: function(){
-            this.$el.html(this.template(this.model.toJSON()));
-            return this;
-        }
-    });
 
-    // instancef
-    var cards = new Cards();
-    var cardListView = new CardListView({collection: cards});
-    cardListView.renderCompleted = function(){
-        var self = this,
-            $prevBtn = $('#prevBtn'),
-            $nextBtn = $('#nextBtn'),
-            $firstBtn = $('#firstBtn'),
-            $lastBtn = $('#lastBtn');
-        disableSwitch();
-        function disableSwitch(){
-            enableBtn($firstBtn, $prevBtn, $nextBtn, $lastBtn);
-            if(self.groupNum === 1){
-                disableBtn($firstBtn, $prevBtn, $nextBtn, $lastBtn);
-            }else if(self.currentPage === 1){
-                disableBtn($prevBtn, $firstBtn);
-            }else if(self.currentPage === self.groupNum){
-                disableBtn($nextBtn, $lastBtn);
-            }
-        }
-        function disableBtn(){
-            _(arguments).each(function(btn){
-                btn.attr('disabled', 'disabled');
-            });
-        }
-        function enableBtn(){
-            _(arguments).each(function(btn){
-                btn.removeAttr('disabled');
-            });
-        }
-        $firstBtn.on('click', function(){
-            self.first();
-            disableSwitch();
-        });
-        $prevBtn.on('click', function(){
-            self.prev();
-            disableSwitch();
-        });
-        $nextBtn.on('click', function(){
-            self.next();
-            disableSwitch();
-        });
-        $lastBtn.on('click', function(){
-            self.last();
-            disableSwitch();
-        });
-    }
-    var submitCardsView = new SubmitCardsView({collection: cards});
+    // var Page = Backbone.Model.extend({
+    //     defaults: {
+    //         pageNum: 0,
+    //         current: false
+    //     }
+    // })
+    // var Pages = Backbone.Collection.extend({
+    //     model: Page
+    // });
+    // var PageView = Backbone.View.extend({
+    //     el: $('#pages'),
+    //     template: _.template($('#card_list_pager').html()),
+    //     render: function(){
+    //         this.$el.html(this.template(this.model.toJSON()));
+    //         return this;
+    //     }
+    // });
 
-    var pages = new Pages();
-    var pageView = new PageView({model: pages});
-    pageView.render();
-    ns.Card = Card;
-    ns.Cards = Cards;
-    ns.CardView = CardView;
-    ns.CardListView = CardListView;
+
+    // var pages = new ns.Pages();
+    // var pageView = new ns.PageView({model: pages});
+    // pageView.render();
 })(this);
 
 
 if(window.JSON){
     // JSON.parse( text[, reviver] )
 }
-console.log(ggg.CardListView);
