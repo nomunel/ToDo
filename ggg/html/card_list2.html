@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=320, user-scalable=no, minimal-ui">
+<script>
+(function(b){var a=b.navigator.userAgent;if(-1===a.indexOf("Chrome")&&0<a.indexOf("Android")){var a=b.document.querySelector('meta[name="viewport"]'),c=320/b.innerWidth*160;160!==c&&(a.setAttribute("content","target-densitydpi=medium-dpi"),c=320/b.innerWidth*160,a.setAttribute("content","target-densitydpi="+c))}})(this);
+</script>
+<title>GGG</title>
+<link rel="stylesheet" href="../css/common.css">
+<style>
+</style>
+</head>
+<body>
+
+<div class="m_pager" class="pager">
+    <!-- <button type="button" class="first">First</button> -->
+    <button type="button" class="prev">Prev</button>
+    <span class="page_num"><b class="current"></b>/<b class="max"></b></span>
+<!-- 
+    <ul id="pages">
+        <script type="text/template" id="card_list_pager" data-wrap="li">
+            <button type="button">1</button>
+        </script>
+    </ul>
+ -->
+    <button type="button" class="next">Next</button>
+    <!-- <button type="button" class="last">Last</button> -->
+</div>
+
+<form id="card_selector">
+<button type="button" id="clear_button">選択クリア</button>
+<button class="submit">確認</button>
+<div id="m_cards">
+    <script type="text/template" id="card_template" data-wrap="li class=card_item">
+        <label>
+            <figure><img src="../_nodeploy/card/card_<%= card_id %>_s.jpg" height="70" width="50"></figure>
+            <span class="name"><%= card_name %></span>
+            <span>スキル：<%- skill.attack.name %></span>
+            <input type="checkbox" class="select" <%= checked ? 'checked': '' %>>
+        </label>
+    </script>
+</div>
+</form>
+
+<script src="../js/common.js"></script>
+<script src="../js/card_list2.js"></script>
+<script>
+
+
+var cards = new ggg.Cards(),
+    jsonPath = '../json/card_list_data.json',
+    jsonPaths;
+
+$.getJSON(jsonPath, function(datas){
+    if(datas[0].split_path){
+        cards.url = datas[0].split_path;
+    }else{
+        cards.url = jsonPath;
+    }
+    jsonLoaded(datas);
+});
+function jsonLoaded(datas){
+    var cardPageView = new ggg.CardPageView({collection: cards});
+    cardPageView.splitJson = datas;
+    cardPageView.maxItemNum = 355;//自動化できる？この段階では無理か
+    cardPageView.groupItemNum = 10;
+    cardPageView.maxGroupNum = Math.ceil(cardPageView.maxItemNum / cardPageView.groupItemNum);
+    cardPageView.currentPage = 1;
+}
+
+</script>
+</body>
+</html>

@@ -34,7 +34,7 @@
 <ul id="m_cards">
     <script type="text/template" id="card_template" data-wrap="li class=card_item">
         <label>
-            <figure><img src="../_nodeploy/card/card_<%= card_id %>_l.jpg" height="70" width="50"></figure>
+            <figure><img src="../_nodeploy/card/card_<%= card_id %>_s.jpg" height="70" width="50"></figure>
             <span class="name"><%= card_name %></span>
             <span>スキル：<%- skill.attack.name %></span>
             <input type="checkbox" class="select" <%= checked ? 'checked': '' %>>
@@ -46,8 +46,6 @@
 <script src="../js/common.js"></script>
 <script src="../js/card_list.js"></script>
 <script>
-
-
     var cards = new ggg.Cards(),
         jsonPath = '../json/card_list_data.json',
         jsonPaths;

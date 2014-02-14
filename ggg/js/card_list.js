@@ -20,8 +20,7 @@
         defaults: {
             "card_name": "Unknown",
             "card_id": 0,
-            "checked": false,
-            "img_loaded": false
+            "checked": false
         }
     });
     ns.Cards = Backbone.Collection.extend({
