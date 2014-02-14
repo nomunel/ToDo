@@ -5,7 +5,7 @@
   - ページリンクの表示を任意の数に随時変え、current処理 =>後回し
  - どこに状態を保持
   - 全データを読んでいない状態からの再開が難しそう
- - ソート
+ - ソート（優先度低：最悪リロードでも）
   - 一旦すべてのモデルをロードしてからソートして表示
   - ソート種別をサーバーサイドに送り、次からはソートされたjsonをもらう
  - フリック操作
@@ -15,8 +15,7 @@
   - 前後のDOMを用意しておく必要がある
 */
 (function(global){
-    var ns = global.ggg || (global.ggg={}),
-        $cardTemplate = $('#card_template');
+    var ns = global.ggg || (global.ggg={});
     ns.Card = Backbone.Model.extend({
         defaults: {
             "card_name": "Unknown",
@@ -29,14 +28,12 @@
         model: ns.Card
     });
     ns.CardView = Backbone.View.extend({
-        tagName: $cardTemplate.data('wrap'),
         events: {
             'click .select': 'toggle'
         },
         toggle: function(){
             this.model.set('checked', !this.model.get('checked'));
         },
-        template: _.template($cardTemplate.html()),
         render: function(){
             this.$el.html(this.template(this.model.toJSON()));
             return this;
@@ -72,9 +69,14 @@
             }
         },
         pageChange: function(group){
+            var tagName = this.$cardTemplate.data('wrap');
             $(this.el).empty();
             _(group).each(function(item){
-                var cardView = new ns.CardView({model: item});
+                var cardView = new ns.CardView({
+                    model: item,
+                    tagName: tagName
+                });
+                cardView.template = _.template(this.$cardTemplate.html());
                 $(this.el).append(cardView.render().el);
             }, this);
         },
@@ -91,7 +93,6 @@
             var self = this;
             if(this.splitJson && (this.currentPage === this.groups.length -2) && this.loadedJsonFiles<this.splitJson.length){
                 var url = this.splitJson[this.loadedJsonFiles++].split_path;
-                console.log(url);
                 $.getJSON(url, function(datas){
                     _(datas).each(function(data){
                         self.collection.create(data);

@@ -59,13 +59,14 @@
             cards.url = jsonPath;
         }
 
-        var cardListView = new ggg.CardListView({collection: cards});
-        cardListView.splitJson = datas;
-        cardListView.maxItemNum = 355;//自動化できる？この段階では無理か
-        cardListView.groupItemNum = 10;
-        cardListView.maxGroupNum = Math.ceil(cardListView.maxItemNum / cardListView.groupItemNum);
-        cardListView.currentPage = 1;
-        cardListView.renderCompleted = function(){
+        var listView = new ggg.CardListView({collection: cards});
+        listView.$cardTemplate = $('#card_template');
+        listView.splitJson = datas;
+        listView.maxItemNum = 355;//自動化できる？この段階では無理か
+        listView.groupItemNum = 10;
+        listView.maxGroupNum = Math.ceil(listView.maxItemNum / listView.groupItemNum);
+        listView.currentPage = 1;
+        listView.renderCompleted = function(){
             var self = this,
                 $clearBtn = $('#clear_button');        
 
@@ -93,7 +94,7 @@
 <!-- 
 <script>
 document.write('[');
-for (var i = 300; i < 400; i++) {
+for (var i = 1; i <= 400; i++) {
     document.write(
         '{"card_name":"Hoge'+[i]+'","card_id":'+[i]+',"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},'
     );

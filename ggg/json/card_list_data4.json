@@ -1,1 +1,2147 @@
-[{"card_name":"Hoge300","card_id":300,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge301","card_id":301,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge302","card_id":302,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge303","card_id":303,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge304","card_id":304,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge305","card_id":305,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge306","card_id":306,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge307","card_id":307,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge308","card_id":308,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge309","card_id":309,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge310","card_id":310,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge311","card_id":311,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge312","card_id":312,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge313","card_id":313,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge314","card_id":314,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge315","card_id":315,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge316","card_id":316,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge317","card_id":317,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge318","card_id":318,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge319","card_id":319,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge320","card_id":320,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge321","card_id":321,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge322","card_id":322,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge323","card_id":323,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge324","card_id":324,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge325","card_id":325,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge326","card_id":326,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge327","card_id":327,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge328","card_id":328,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge329","card_id":329,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge330","card_id":330,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge331","card_id":331,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge332","card_id":332,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge333","card_id":333,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge334","card_id":334,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge335","card_id":335,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge336","card_id":336,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge337","card_id":337,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge338","card_id":338,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge339","card_id":339,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge340","card_id":340,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge341","card_id":341,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge342","card_id":342,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge343","card_id":343,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge344","card_id":344,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge345","card_id":345,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge346","card_id":346,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge347","card_id":347,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge348","card_id":348,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge349","card_id":349,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge350","card_id":350,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge351","card_id":351,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge352","card_id":352,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge353","card_id":353,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}},{"card_name":"Hoge354","card_id":354,"date":"2013-01-1001:00Z","used":false,"atk":9999,"charm":9999,"charm_def":9999,"def":9999,"exp_percentage":50,"level":200,"level_max":999,"limit":0,"rarity":5,"selected":false,"skill":{"attack":{"element":1,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"sapport":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"},"special":{"element":2,"exp_percentage":50,"level":20,"level_max":40,"name":"灼熱の杖"}}}]
+[
+  {
+    "card_name": "Hoge301",
+    "card_id": 301,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge302",
+    "card_id": 302,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge303",
+    "card_id": 303,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge304",
+    "card_id": 304,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge305",
+    "card_id": 305,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge306",
+    "card_id": 306,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge307",
+    "card_id": 307,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge308",
+    "card_id": 308,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge309",
+    "card_id": 309,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge310",
+    "card_id": 310,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge311",
+    "card_id": 311,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge312",
+    "card_id": 312,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge313",
+    "card_id": 313,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge314",
+    "card_id": 314,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge315",
+    "card_id": 315,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge316",
+    "card_id": 316,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge317",
+    "card_id": 317,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge318",
+    "card_id": 318,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge319",
+    "card_id": 319,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge320",
+    "card_id": 320,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge321",
+    "card_id": 321,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge322",
+    "card_id": 322,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge323",
+    "card_id": 323,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge324",
+    "card_id": 324,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge325",
+    "card_id": 325,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge326",
+    "card_id": 326,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge327",
+    "card_id": 327,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge328",
+    "card_id": 328,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge329",
+    "card_id": 329,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge330",
+    "card_id": 330,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge331",
+    "card_id": 331,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge332",
+    "card_id": 332,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge333",
+    "card_id": 333,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge334",
+    "card_id": 334,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge335",
+    "card_id": 335,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge336",
+    "card_id": 336,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge337",
+    "card_id": 337,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge338",
+    "card_id": 338,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge339",
+    "card_id": 339,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge340",
+    "card_id": 340,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge341",
+    "card_id": 341,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge342",
+    "card_id": 342,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge343",
+    "card_id": 343,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge344",
+    "card_id": 344,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge345",
+    "card_id": 345,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge346",
+    "card_id": 346,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge347",
+    "card_id": 347,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge348",
+    "card_id": 348,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge349",
+    "card_id": 349,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge350",
+    "card_id": 350,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge351",
+    "card_id": 351,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge352",
+    "card_id": 352,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge353",
+    "card_id": 353,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge354",
+    "card_id": 354,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  },
+  {
+    "card_name": "Hoge355",
+    "card_id": 355,
+    "date": "2013-01-1001:00Z",
+    "used": false,
+    "atk": 9999,
+    "charm": 9999,
+    "charm_def": 9999,
+    "def": 9999,
+    "exp_percentage": 50,
+    "level": 200,
+    "level_max": 999,
+    "limit": 0,
+    "rarity": 5,
+    "selected": false,
+    "skill": {
+      "attack": {
+        "element": 1,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "sapport": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      },
+      "special": {
+        "element": 2,
+        "exp_percentage": 50,
+        "level": 20,
+        "level_max": 40,
+        "name": "灼熱の杖"
+      }
+    }
+  }
+]
