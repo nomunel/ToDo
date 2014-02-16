@@ -115,9 +115,20 @@ del {
 
 /* common parts
 ------------------------- */
+#card_selector {
+  overflow: hidden;
+  width: 320px;
+}
+
 #m_cards {
-  width: 300px;
+  position: relative;
+  width: 320px;
   margin: 8px auto;
+}
+#m_cards ul {
+  position: absolute;
+  top: 0;
+  width: 320px;
 }
 #m_cards li {
   border-bottom: 1px solid #eee;

@@ -4,10 +4,19 @@
 
 /* common parts
 ------------------------- */
-
+#card_selector{
+    overflow: hidden;
+    width: 320px;
+}
 #m_cards{
-    width: 300px;
+    position: relative;
+    width: 320px;
     margin: 8px auto;
+    ul{
+        position: absolute;
+        top: 0;
+        width: 320px;
+    }
     li{
         border-bottom: 1px solid #eee;
         &:first-child{

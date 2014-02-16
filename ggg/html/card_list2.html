@@ -47,10 +47,10 @@
 <script src="../js/card_list2.js"></script>
 <script>
 
-
 var cards = new ggg.Cards(),
     jsonPath = '../json/card_list_data.json',
-    jsonPaths;
+    jsonPaths,
+    jsonLoaded;
 
 $.getJSON(jsonPath, function(datas){
     if(datas[0].split_path){
@@ -60,13 +60,40 @@ $.getJSON(jsonPath, function(datas){
     }
     jsonLoaded(datas);
 });
-function jsonLoaded(datas){
-    var cardPageView = new ggg.CardPageView({collection: cards});
-    cardPageView.splitJson = datas;
-    cardPageView.maxItemNum = 355;//自動化できる？この段階では無理か
-    cardPageView.groupItemNum = 10;
-    cardPageView.maxGroupNum = Math.ceil(cardPageView.maxItemNum / cardPageView.groupItemNum);
-    cardPageView.currentPage = 1;
+jsonLoaded = function(datas){
+    var $cardListWrap = $('#m_cards'),
+        cardsView = new ggg.CardPageView({
+            el: $cardListWrap,
+            collection: cards
+        });
+    cardsView.splitJson = datas;
+    cardsView.maxItemNum = 355;//自動化できる？この段階では無理か
+    cardsView.groupItemNum = 10;
+    cardsView.maxGroupNum = Math.ceil(cardsView.maxItemNum / cardsView.groupItemNum);
+    cardsView.currentPage = 1;
+    cardsView.preLoadPage = 1;
+
+    cardsView.initRenderCompleted = function(){
+        var self = this,
+            $clearBtn = $('#clear_button');
+
+        // $clearBtn.on('click', function(){
+        //     _(self.collection.models).each(function(item){
+        //         item.set('checked', false);
+        //     }, self);
+        //     $('#m_cards .select').removeAttr('checked');
+        // });
+
+        this.setPager({
+            '$firstBtns': $('.m_pager .first'),
+            '$prevBtns': $('.m_pager .prev'),
+            '$nextBtns': $('.m_pager .next'),
+            '$lastBtns': $('.m_pager .last'),
+            '$currentPageNums': $('.m_pager .page_num .current'),
+            '$maxPageNums': $('.m_pager .page_num .max')
+        });
+
+    }
 }
 
 </script>
