@@ -34,7 +34,7 @@
 <div id="m_cards">
     <script type="text/template" id="card_template" data-wrap="li class=card_item">
         <label>
-            <figure><img src="../_nodeploy/card/card_<%= card_id %>_s.jpg" height="70" width="50"></figure>
+            <figure><img src="../_nodeploy/card/card_<%= card_id %>_s.jpg" height="35" width="25"></figure>
             <span class="name"><%= card_name %></span>
             <span>スキル：<%- skill.attack.name %></span>
             <input type="checkbox" class="select" <%= checked ? 'checked': '' %>>
@@ -50,7 +50,11 @@
 var cards = new ggg.Cards(),
     jsonPath = '../json/card_list_data.json',
     jsonPaths,
-    jsonLoaded;
+    jsonLoaded,
+    submitCardsView = new ggg.SubmitCardsView({
+        el: $('#card_selector'),
+        collection: cards
+    });
 
 $.getJSON(jsonPath, function(datas){
     if(datas[0].split_path){
@@ -68,7 +72,7 @@ jsonLoaded = function(datas){
         });
     cardsView.splitJson = datas;
     cardsView.maxItemNum = 355;//自動化できる？この段階では無理か
-    cardsView.groupItemNum = 10;
+    cardsView.groupItemNum = 5;
     cardsView.maxGroupNum = Math.ceil(cardsView.maxItemNum / cardsView.groupItemNum);
     cardsView.currentPage = 1;
     cardsView.preLoadPage = 1;
@@ -77,12 +81,12 @@ jsonLoaded = function(datas){
         var self = this,
             $clearBtn = $('#clear_button');
 
-        // $clearBtn.on('click', function(){
-        //     _(self.collection.models).each(function(item){
-        //         item.set('checked', false);
-        //     }, self);
-        //     $('#m_cards .select').removeAttr('checked');
-        // });
+        $clearBtn.on('click', function(){
+            _(self.collection.models).each(function(item){
+                item.set('checked', false);
+            }, self);
+            $('#m_cards .select').removeAttr('checked');
+        });
 
         this.setPager({
             '$firstBtns': $('.m_pager .first'),

@@ -1,15 +1,25 @@
 
 (function($) {
+    $.listenEvents = {
+        transitionend: [
+            'webkitTransitionEnd',
+            'oTransitionEnd',
+            'otransitionend',
+            'transitionend'
+        ]
+    };
     $.support.translate3d = 'WebKitCSSMatrix' in window && 'm11' in new WebKitCSSMatrix();
     $.fn.translateX = function(x, duration){
-        var prop = ($.support.translate3d)
-            ? 'translate3d(' + x +'px, 0, 0)'
-            : 'translateX(' + x +'px)';
-        this.css('transform', prop);
+        // var prop = ($.support.translate3d)
+        //     ? 'translate3d(' + x +'px, 0, 0)'
+        //     : 'translateX(' + x +'px)';
+        // this.css('transform', prop);
+        this.css('transform', 'translateX(' + x +'px)');
         this.css('transitionDuration', duration);
     }
 })(jQuery);
-// $('#card_selector').translateX(100, '.3s');
+// .on($.listenEvents.transitionend.join(' '), hoge);
+// .off($.listenEvents.transitionend.join(' '), hoge);
 
 (function(global){
     var ns = global.ggg || (global.ggg={});
@@ -72,12 +82,45 @@
                     this.grouping();
                     this.render(arr);
                     this.initRenderCompleted();
-                    // this.loadedJsonFiles<this.splitJson.lengthでaddJson
+                    /* 
+                    split時に2ファイル目以降のを指定されることを考慮すると
+                    this.loadedJsonFiles<this.splitJson.length
+                    でaddJsonする必要ある（優先度低）
+                    */
                     this.$el.translateX(-320*(this.currentPage-1), '.3s');
                 }, this)
             });
             this.loadedJsonFiles = 1;
             this.index = 0;
+        },
+        events: {
+            'touchstart': function(){
+                this.touchstartX = event.touches[0].pageX;
+            },
+            'touchmove': function(e){
+                e.preventDefault();
+                this.touchmoveX = event.touches[0].pageX;
+                this.drag();
+            },
+            'touchend': function(){
+                this.touchendX = event.changedTouches[0].pageX;
+                this.pageMove();
+            }
+        },
+        drag: function(){
+            var diffX = this.touchstartX - this.touchmoveX,
+                x = (this.currentPage-1) * 320 + diffX;
+            this.$el.translateX(-x, '0');
+        },
+        pageMove: function(){
+            var blankSpace = 40;
+            if(this.touchstartX + blankSpace < this.touchendX){
+                this.prev();
+            }else if(this.touchstartX - blankSpace > this.touchendX){
+                this.next();
+            }else{
+                this.$el.translateX(-320*(this.currentPage-1), '.3s');
+            }
         },
         grouping: function(){
             var models = this.collection.models,
@@ -130,82 +173,81 @@
             });
         },
         prev: function(){
-            if(this.currentPage === 1) {
-                return;
-            };
-            this.render(
-                [this.currentPage-1-this.preLoadPage],
-                [this.currentPage+1]
-                );
-            this.currentPage--;
-            this.$el.translateX(-320*(this.currentPage-1), '.3s');
+            if(this.currentPage === 1){
+                this.$el.translateX(-320*(this.currentPage-1), '.3s');
+            }else{
+                this.$el.translateX(-320*(this.currentPage-2), '.3s');
+                this.render(
+                    [this.currentPage -1 -this.preLoadPage],
+                    [this.currentPage + this.preLoadPage]
+                    );
+                this.currentPage--;
+                this.disableSwitch();
+                this.$currentPageNums.html(this.currentPage);
+            }
         },
         next: function(){
             if(this.currentPage === this.maxGroupNum){
-                return;
+                this.$el.translateX(-320*(this.currentPage-1), '.3s');
+            }else{
+                this.$el.translateX(-320*(this.currentPage), '.3s');
+                if(this.currentPage === (this.groups.length-this.preLoadPage-2) && this.loadedJsonFiles<this.splitJson.length){
+                    this.addJson();
+                }
+                this.render(
+                    [this.currentPage +1 + this.preLoadPage],
+                    [this.currentPage - this.preLoadPage]
+                    );
+                this.currentPage++;
+                this.disableSwitch();
+                this.$currentPageNums.html(this.currentPage);
             }
-            if(this.currentPage === (this.groups.length-this.preLoadPage-2) && this.loadedJsonFiles<this.splitJson.length){
-                this.addJson();
-            }
-            this.render(
-                [this.currentPage+1+this.preLoadPage],
-                [this.currentPage-1]
-                );
-            this.currentPage++;
-            this.$el.translateX(-320*(this.currentPage-1), '.3s');
         },
         setPager: function(elms){
-            var self = this,
-                $firstBtns = elms.$firstBtns,
-                $prevBtns = elms.$prevBtns,
-                $nextBtns = elms.$nextBtns,
-                $lastBtns = elms.$lastBtns,
-                $currentPageNums = elms.$currentPageNums,
-                $maxPageNums = elms.$maxPageNums;
+            var self = this;
+            this.$firstBtns = elms.$firstBtns;
+            this.$prevBtns = elms.$prevBtns;
+            this.$nextBtns = elms.$nextBtns;
+            this.$lastBtns = elms.$lastBtns;
+            this.$currentPageNums = elms.$currentPageNums;
+            this.$maxPageNums = elms.$maxPageNums;
 
-            $currentPageNums.html(self.currentPage);
-            $maxPageNums.html(self.maxGroupNum);
-            disableSwitch();
+            self.$currentPageNums.html(self.currentPage);
+            self.$maxPageNums.html(self.maxGroupNum);
+            self.disableSwitch();
 
-            $firstBtns.on('click', function(){
+            self.$firstBtns.on('click', function(){
                 self.first();
-                disableSwitch();
-                $currentPageNums.html(self.currentPage);
             });
-            $prevBtns.on('click', function(){
+            self.$prevBtns.on('click', function(){
                 self.prev();
-                disableSwitch();
-                $currentPageNums.html(self.currentPage);
             });
-            $nextBtns.on('click', function(){
+            self.$nextBtns.on('click', function(){
                 self.next();
-                disableSwitch();
-                $currentPageNums.html(self.currentPage);
             });
-            $lastBtns.on('click', function(){
+            self.$lastBtns.on('click', function(){
                 self.last();
-                disableSwitch();
-                $currentPageNums.html(self.currentPage);
             });
-            function disableSwitch(){
-                enable($firstBtns, $prevBtns, $nextBtns, $lastBtns);
-                if(self.maxGroupNum === 1){
-                    disable($firstBtns, $prevBtns, $nextBtns, $lastBtns);
-                }else if(self.currentPage === 1){
-                    disable($prevBtns, $firstBtns);
-                }else if(self.currentPage === self.maxGroupNum){
-                    disable($nextBtns, $lastBtns);
-                }
-                function disable(){
-                    _(arguments).each(function(btn){
-                        btn.attr('disabled', 'disabled');
-                    });
-                }
-                function enable(){
-                    _(arguments).each(function(btn){
-                        btn.removeAttr('disabled');
-                    });
-                }
+        },
+        disableSwitch: function(){
+            var self = this;
+            enable(self.$firstBtns, self.$prevBtns, self.$nextBtns, self.$lastBtns);
+            if(self.maxGroupNum === 1){
+                disable(self.$firstBtns, self.$prevBtns, self.$nextBtns, self.$lastBtns);
+            }else if(self.currentPage === 1){
+                disable(self.$prevBtns, self.$firstBtns);
+            }else if(self.currentPage === self.maxGroupNum){
+                disable(self.$nextBtns, self.$lastBtns);
+            }
+            function disable(){
+                _(arguments).each(function(btn){
+                    btn.attr('disabled', 'disabled');
+                });
+            }
+            function enable(){
+                _(arguments).each(function(btn){
+                    btn.removeAttr('disabled');
+                });
             }
         }
     });

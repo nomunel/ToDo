@@ -121,6 +121,11 @@ del {
 }
 
 #m_cards {
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  overflow: hidden;
   position: relative;
   width: 320px;
   margin: 8px auto;
