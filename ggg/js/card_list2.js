@@ -1,3 +1,21 @@
+/*
+ - PageViewの途中
+  - ページリンクの表示を任意の数に随時変え、current処理 =>後回し
+ - どこかに状態を保持
+  - 全データを読んでいない状態からの再開が難しそう
+ - ソート（優先度低：最悪リロードでも）
+  - 一旦すべてのモデルをロードしてからソートして表示
+  - ソート種別をサーバーサイドに送り、次からはソートされたjsonをもらう
+ - drag後に一瞬固まるのを改善（優先度低）
+  - 惰性で少し動くようにするとよい？Flipsnap参照
+*/
+var $debugLogElm = $('#debug_log')
+function debugLog(msg){
+    $debugLogElm.append(msg + ', ');
+    setTimeout(function(){
+        $debugLogElm.html('　');
+    }, 1200);
+}
 
 (function($) {
     $.listenEvents = {
@@ -18,8 +36,9 @@
         this.css('transitionDuration', duration);
     }
 })(jQuery);
-// .on($.listenEvents.transitionend.join(' '), hoge);
-// .off($.listenEvents.transitionend.join(' '), hoge);
+// listenEvents使い方
+// .on($.listenEvents.transitionend.join(' '), function);
+// .off($.listenEvents.transitionend.join(' '), function);
 
 (function(global){
     var ns = global.ggg || (global.ggg={});
@@ -36,16 +55,13 @@
         model: ns.Card
     });
 
-    var $cardTemplate = $('#card_template');
     ns.CardView = Backbone.View.extend({
-        tagName: $cardTemplate.data('wrap'),
         events: {
-            'click .select': 'toggle'
+            'touchend .select': 'toggle'
         },
         toggle: function(){
             this.model.set('checked', !this.model.get('checked'));
         },
-        template:  _.template($cardTemplate.html()),
         render: function(){
             this.$el.html(this.template(this.model.toJSON()));
             return this;
@@ -55,14 +71,18 @@
     ns.CardListView = Backbone.View.extend({
         tagName: 'ul',
         events: {
-
+            'load img': 'hoge'
         },
         render: function(index){
             this.$el
             .css('left', ((index-1)*320)+'px')
             .attr('id', 'page'+index);
             _(this.items).each(function(item){
-                var cardView = new ns.CardView({model: item});
+                var cardView = new ns.CardView({
+                    model: item,
+                    tagName: this.$cardTemplate.data('wrap')
+                });
+                cardView.template =  _.template(this.$cardTemplate.html());
                 this.$el.append(cardView.render().el);
             }, this);
             return this;
@@ -137,17 +157,18 @@
         },
         render: function(addIndexs, removeIndexs){
             // if(!addIndexs){return;}
-            var addGroups = [];
+            var newGroups = [];
             _(addIndexs).each(function(index){
                 if(!document.getElementById('page'+index)){
-                    addGroups.push(this.groups[index] || null);
+                    newGroups.push(this.groups[index] || null);
                 }
             }, this);
-            _(addGroups).each(function(group){
+            _(newGroups).each(function(group){
                 if(group !== null){
                     var cardListView = new ns.CardListView();
                     cardListView.items = group;
-                    $(this.el).append(cardListView.render(group.index).el);
+                    cardListView.$cardTemplate = this.$cardTemplate;
+                    this.$el.append(cardListView.render(group.index).el);
                     this.index++;
                 }
             }, this);
@@ -173,6 +194,11 @@
             });
         },
         prev: function(){
+            var self = this;
+            $spinner.css('display', 'none');
+            this.touchedNext = false;
+            this.nextRenderBlock = false;
+            this.nextLoaded = false;
             if(this.currentPage === 1){
                 this.$el.translateX(-320*(this.currentPage-1), '.3s');
             }else{
@@ -187,20 +213,59 @@
             }
         },
         next: function(){
+            var self = this;
             if(this.currentPage === this.maxGroupNum){
                 this.$el.translateX(-320*(this.currentPage-1), '.3s');
-            }else{
-                this.$el.translateX(-320*(this.currentPage), '.3s');
-                if(this.currentPage === (this.groups.length-this.preLoadPage-2) && this.loadedJsonFiles<this.splitJson.length){
-                    this.addJson();
+            }
+            else if(this.nextRenderBlock){
+                this.$el.translateX(-320*(this.currentPage-1), '.3s');
+                this.touchedNext = true;
+                $spinner.css('display', 'block');
+                debugLog('ロード中...')
+                return;
+            }
+            else{
+                this.nextRenderBlock = true;
+                if(!(this.currentPage >= this.groups.length-this.preLoadPage-2)) {
+                    $spinner.css('display', 'block');
                 }
+                if(this.currentPage === this.groups.length-this.preLoadPage-2){
+                    if(this.loadedJsonFiles<this.splitJson.length){
+                        this.addJson();
+                    }
+                }
+                this.$el.translateX(-320*(this.currentPage), '.3s');
                 this.render(
                     [this.currentPage +1 + this.preLoadPage],
                     [this.currentPage - this.preLoadPage]
-                    );
+                );
+                var $img = this.$el.find('li:last-child figure img');
+                $img.on('load', function(){
+                    self.nextLoaded = true;
+                });
                 this.currentPage++;
-                this.disableSwitch();
                 this.$currentPageNums.html(this.currentPage);
+                this.disableSwitch();
+                hoge();
+            }
+            function hoge(){
+                if(!self.nextLoaded){
+                    setTimeout(function(){
+                        hoge();
+                    }, 200);
+                    return;
+                }else{
+                    if(self.touchedNext){
+                        self.touchedNext = false;
+                        self.nextRenderBlock = false;
+                        self.nextLoaded = false;
+                        self.next();
+                    }else{
+                        self.nextRenderBlock = false;
+                        self.nextLoaded = false;
+                    }
+                    $spinner.css('display', 'none');
+                }
             }
         },
         setPager: function(elms){
@@ -216,16 +281,16 @@
             self.$maxPageNums.html(self.maxGroupNum);
             self.disableSwitch();
 
-            self.$firstBtns.on('click', function(){
+            self.$firstBtns.on('touchend', function(){
                 self.first();
             });
-            self.$prevBtns.on('click', function(){
+            self.$prevBtns.on('touchend', function(){
                 self.prev();
             });
-            self.$nextBtns.on('click', function(){
+            self.$nextBtns.on('touchend', function(){
                 self.next();
             });
-            self.$lastBtns.on('click', function(){
+            self.$lastBtns.on('touchend', function(){
                 self.last();
             });
         },

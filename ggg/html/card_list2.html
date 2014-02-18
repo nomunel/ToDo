@@ -9,10 +9,17 @@
 <title>GGG</title>
 <link rel="stylesheet" href="../css/common.css">
 <style>
+#spinner{
+    display: none;
+    position: fixed;
+    right: 20px;
+    top: 20px;
+}
 </style>
 </head>
 <body>
-
+<img id="spinner" src="../img/touch/spinner.gif" height="16" width="16">
+<p id="debug_log">debug_log</p>
 <div class="m_pager" class="pager">
     <!-- <button type="button" class="first">First</button> -->
     <button type="button" class="prev">Prev</button>
@@ -46,7 +53,7 @@
 <script src="../js/common.js"></script>
 <script src="../js/card_list2.js"></script>
 <script>
-
+var $spinner = $('#spinner');
 var cards = new ggg.Cards(),
     jsonPath = '../json/card_list_data.json',
     jsonPaths,
@@ -72,10 +79,11 @@ jsonLoaded = function(datas){
         });
     cardsView.splitJson = datas;
     cardsView.maxItemNum = 355;//自動化できる？この段階では無理か
-    cardsView.groupItemNum = 5;
+    cardsView.groupItemNum = 20;
     cardsView.maxGroupNum = Math.ceil(cardsView.maxItemNum / cardsView.groupItemNum);
     cardsView.currentPage = 1;
     cardsView.preLoadPage = 1;
+    cardsView.$cardTemplate = $('#card_template');
 
     cardsView.initRenderCompleted = function(){
         var self = this,
@@ -99,7 +107,6 @@ jsonLoaded = function(datas){
 
     }
 }
-
 </script>
 </body>
 </html>

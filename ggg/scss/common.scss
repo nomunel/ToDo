@@ -9,9 +9,8 @@
     width: 320px;
 }
 #m_cards{
-    @include transform-style(preserve-3d);
+    // @include transform-style(preserve-3d);
     @include backface-visibility(hidden);
-    overflow: hidden;
     position: relative;
     width: 320px;
     margin: 8px auto;
