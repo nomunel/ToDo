@@ -11,9 +11,10 @@
 */
 var $debugLogElm = $('#debug_log')
 function debugLog(msg){
-    $debugLogElm.append(msg + ', ');
+    var $span = $('<span>' + msg + '</span>');
+    $span.appendTo($debugLogElm);
     setTimeout(function(){
-        $debugLogElm.html('　');
+        $span.remove();
     }, 1200);
 }
 
